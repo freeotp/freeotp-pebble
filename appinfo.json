@@ -1,0 +1,25 @@
+{
+  "uuid": "e1311428-0b60-4cb9-a940-01af5fa57c6f",
+  "shortName": "FreeOTP",
+  "longName": "FreeOTP",
+  "companyName": "Red Hat, Inc.",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "id": 0,
+    "uri": 1,
+    "msg": 2,
+    "success": 3
+  },
+  "resources":{
+    "media": [
+      {"name": "CANCEL", "file": "cancel.png", "type": "png"},
+      {"name": "DELETE", "file": "delete.png", "type": "png"},
+      {"name": "MOVE", "file": "move.png", "type": "png"},
+      {"name": "FREEOTP", "file": "FreeOTP.png", "type": "png", "menuIcon": true}
+    ]
+  }
+}
